@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-fawn-two.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/222loeju5iytzv3epys5khwyja)
+[<img src="https://novatorem-drab-rho.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/222loeju5iytzv3epys5khwyja)
 
 ### Connect with me:
 
