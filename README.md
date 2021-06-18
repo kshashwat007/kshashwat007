@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning React-native & python
 - 🥅 2021 Goals: Get better at react-native using projects and get a deep understanding of python data-structures and algos
-- ⚡ Fun fact: I love to play games.
 
 ### Spotify Playing 🎧
 
