@@ -1,7 +1,7 @@
 ## Hi there, I'm Krishanu. I'm a Full-Stack Developer!! 👋
 
-- 🌱 I’m currently learning React-native & python
-- 🥅 2021 Goals: Get better at react-native using projects and get a deep understanding of python data-structures and algos
+- 🌱 I’m currently learning Next Js and focusing on backend topics
+- 🥅 2022 Goals: Get better at mobile/frontend dev and get a deep understanding of data-structures and algos
 
 ### Spotify Playing 🎧
 
