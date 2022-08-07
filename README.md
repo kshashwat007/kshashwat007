@@ -1,7 +1,9 @@
 ## Hi there, I'm Krishanu. I'm a Full-Stack Developer!! 👋
 
-- 🌱 I’m currently learning Next Js and focusing on backend topics
-- 🥅 2022 Goals: Get better at mobile/frontend dev and get a deep understanding of data-structures and algos
+- 🌱Currently focussed on Improving My Frontend Skills. 
+- 🌱Learning More backend technologies such as NestJs.
+- 🌱Currently improving My DSA skills using Python.
+- 🌱Start development on some of my App and web app ideas with focus on user growth. 
 
 ### Spotify Playing 🎧
 
