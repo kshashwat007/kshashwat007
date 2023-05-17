@@ -1,5 +1,11 @@
 ## Hi there, I'm Krishanu. I'm a Full-Stack Developer!! 👋
 
+- 🌱 I specialize primarily in Backend using Django and nodeJs in the fullstack.
+- 🌱 On the Frontend i primarily use React framework and nextJs using typescript. On the css side of things, i use mainly tailwindcss.
+- 🌱 Currently learning and improving my skills in electronJS so that i can make native applications. 
+- 🌱 I am also currently dabbling in the world of AI by learning and making some different applications using openai's API.
+
+
 
 ### Spotify Playing 🎧
 
