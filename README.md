@@ -1,10 +1,5 @@
 ## Hi there, I'm Krishanu. I'm a Full-Stack Developer!! 👋
 
-- 🌱Currently focussed on Improving My Frontend Skills. 
-- 🌱Learning More backend technologies such as NestJs.
-- 🌱Currently improving My DSA skills using Python.
-- 🌱Learning Rust. 
-- 🌱Start development on some of my App and web app ideas with focus on user growth. 
 
 ### Spotify Playing 🎧
 
