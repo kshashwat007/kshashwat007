@@ -14,7 +14,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://krishanu.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="kshashwat007" height="30" width="40" /></a>
+<!-- <a href="https://krishanu.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="kshashwat007" height="30" width="40" /></a> -->
+<a href="https://twitter.com/kshashwat07" target="blank"><img align="center" src="https://icons8.com/icon/5MQ0gPAYYx7a/twitter" alt="kshashwat007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krishanu-shashwat-94740b170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="kshashwat007" height="30" width="40" /></a>
 </p>
 
